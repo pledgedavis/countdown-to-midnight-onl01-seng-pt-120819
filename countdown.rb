@@ -2,7 +2,7 @@
 def countdown
  x = 10
  while x > 0
- do x -=1
+  x -=1
   puts "#{x}SECOND(S)!"
  end
 end
