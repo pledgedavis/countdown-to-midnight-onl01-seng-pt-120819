@@ -5,4 +5,4 @@ def countdown(int)
     int -=1
  end
 end
-countdown ="HAPPY NEW YEAR!"
+return ="HAPPY NEW YEAR!"
