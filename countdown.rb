@@ -15,7 +15,7 @@ def countdown_with_sleep(int)
   
 while int > 0 do 
    puts "#{int}" 
-   int -= 1
+   int -= 5
    sleep(1.send)
   end
  end
