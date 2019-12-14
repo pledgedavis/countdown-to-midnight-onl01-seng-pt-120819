@@ -11,11 +11,11 @@ end
 
 
 
-def countdown_with_sleep(int)
+def countdown_with_sleep(number)
   
-while int > 0 do 
-   puts "#{int}" 
-   int -= 5
+while number > 0 do 
+   puts "#{number}" 
+   number -= 5
    sleep(1.send)
   end
  end
