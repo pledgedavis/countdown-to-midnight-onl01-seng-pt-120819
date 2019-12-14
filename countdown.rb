@@ -15,6 +15,7 @@ def countdown_with_sleep(int)
   
 while int > 0 do 
    puts "#{int}" 
+   sleep
 
 
 
